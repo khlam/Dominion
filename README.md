@@ -8,4 +8,4 @@ Contents
 
 http://www.evosuite.org/wp-content/papercite-data/pdf/sbst15_competition.pdf
 
-![Alt text](https://github.com/aburasali/CS362W17Section-001/blob/master/projects/lamki/SearchBasedGeneratedMemes.jpg?raw=true "Search Based Generated Memes")
+![Alt text](https://raw.githubusercontent.com/lamki866/CS362-Dominion/master/SearchBasedGeneratedMemes.jpg "Search Based Generated Memes")
